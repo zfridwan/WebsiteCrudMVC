@@ -1,0 +1,8 @@
+C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net8.0\WebsiteCrudMVC.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net8.0\WebsiteCrudMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net8.0\WebsiteCrudMVC.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net8.0\WebsiteCrudMVC.AssemblyInfo.cs
+C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net8.0\WebsiteCrudMVC.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net8.0\WebsiteCrudMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net8.0\WebsiteCrudMVC.RazorAssemblyInfo.cache
+C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net8.0\WebsiteCrudMVC.RazorAssemblyInfo.cs

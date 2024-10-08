@@ -1,0 +1,19 @@
+@model WebsiteCrudMVC.Models.User
+
+@{
+    ViewData["Title"] = "Delete User";
+}
+
+<h2>Delete User</h2>
+
+<h5>Anda yakin ingin hapus user tersebut?</h5>
+<div>
+    <h6>@Model.FirstName @Model.LastName</h6>
+    <p>Email: @Model.Email</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="UserID" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
