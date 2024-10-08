@@ -96,3 +96,4 @@ C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net9.0\WebsiteCrudMVC.csproj.Assembly
 C:\Users\Thinkpad\WebsiteCrudMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Thinkpad\WebsiteCrudMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net9.0\WebsiteC.79A89F20.Up2Date
+C:\Users\Thinkpad\WebsiteCrudMVC\obj\Debug\net9.0\WebsiteCrudMVC.sourcelink.json
